@@ -1,35 +1,22 @@
-# Quest 2 - Interact with Programmable Wallets
+Circle Programmable Wallets 🌐💰
+Hey there! This repo contains code samples and a write-up exploring Circle's Programmable Wallets and how to build awesome Web3 apps with them.
+🎯 Topics Covered
 
-## Getting Started
+Introduction to Circle's Web3 Services and Programmable Wallets
+Benefits of Programmable Wallets (gas abstraction, simplified onboarding, and more!)
+How USDC and Programmable Wallets enable real-world Web3 solutions
+Step-by-step guide to creating users, wallets, initiating transfers, and viewing balances
+Code snippets with the Circle Server SDK and Web SDK
+Innovative use of flowcharts and visuals to explain concepts
+Additional insights and considerations for Programmable Wallets
 
-Welcome to the Second Quest in our campaign, where we will explore the capabilities of Circle Programmable Wallets.
+🌐 Check Out the Full Write-Up
+The complete write-up is available on Mirror:
+https://mirror.xyz/0xCD5943318DC31517f5dE2D345b785619eEA5BeEd/n5VFp_JY1jM9LkHSryh2kElShp7Z-A9RnMHRIhoaBzw
+Building Web3 Applications with Circle's Programmable Wallets and USDC
+📈 Flowchart Visualizing Programmable Wallet Flow
+![image](https://github.com/Gl4d3/circle-web3-wallet/assets/108263849/e654bd93-f3ea-40d9-a96b-c3c33cde3519)
 
-## Pre-requisites
-
-Before you begin, make sure you have the following tools installed on your system:
-
-- Git
-- Node.js
-
-## Project Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/clement-stackup/circle-bounty.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd circle-bounty
-```
-
-3. Install the necessary dependencies to set up your environment:
-```bash
-npm install
-``` 
-
-Now that you're set up, you're ready to start the quest! Follow the steps as outlined in the campaign. Each step contains detailed instructions to guide you through the process
-
-## Preview of Quest
-
-![image](https://github.com/clement-stackup/circle-bounty/assets/120361535/49b5b8ff-4971-4435-8ccb-f574056c5e55)
+🚀 Let's Build!
+Feel free to explore the code samples and experiment with Circle's Programmable Wallets. If you have any questions or suggestions, don't hesitate to open an issue or submit a pull request!
+Let's revolutionize the Web3 experience together! 🎉
